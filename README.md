@@ -9,4 +9,7 @@
 ## 성명: 김현진
 ### 학과: 정보통신공학과
 
-# Fetch & Merge
+## Fetch & Merge
+### A
+### B 
+
